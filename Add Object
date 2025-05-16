@@ -1,0 +1,19 @@
+
+Add Object
+Add a file from your computer to the bucket.
+
+recall
+Key to store the object under.
+
+Overwrite an existing object with the same key.
+
+
+
+RECALL1.PNG
+RECALL1.PNG
+
+{"content-type":"image/png","size":"933840"}
+Metadata is optional and must be a JSON object with string property values.
+
+default (14 days)
+Time to live for the object in hours.
